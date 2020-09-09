@@ -1,0 +1,11 @@
+{
+  "paths": [
+    {
+      "_path": "Lib/site-packages/cv2.cp38-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "023fb3303fea760607e97ae051b80e48520381d6539c48926a1a1fbfdf1bb25a",
+      "size_in_bytes": 7766528
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,7 @@
+{
+  "geos": "3.8.1",
+  "numpy": "1.16",
+  "vc": "14",
+  "python": "3.8.* *_cpython",
+  "c_compiler": "vs2017"
+}

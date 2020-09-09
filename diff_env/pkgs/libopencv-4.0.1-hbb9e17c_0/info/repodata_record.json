@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64",
+  "build": "hbb9e17c_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9b,<10a",
+    "libpng >=1.6.37,<1.7.0a0",
+    "libtiff >=4.0.10,<5.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "features": "",
+  "fn": "libopencv-4.0.1-hbb9e17c_0.conda",
+  "legacy_bz2_md5": "bc64c339436fdb3983eb633b7e671114",
+  "license": "BSD 3-clause",
+  "license_family": "BSD",
+  "md5": "621936caba8b4ad07b73c0410d3f35aa",
+  "name": "libopencv",
+  "platform": "win32",
+  "sha256": "d3ce749064468e70dd612b54cb37961a4685170c151608e83e41141e64e4cb32",
+  "size": 30011824,
+  "subdir": "win-64",
+  "timestamp": 1573472226196,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libopencv-4.0.1-hbb9e17c_0.conda",
+  "version": "4.0.1"
+}

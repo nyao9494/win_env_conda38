@@ -1,0 +1,59 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Mon Oct  7 12:24:34 2019
+# ------------------------------------------------
+
+package:
+    name: pyntcloud
+    version: 0.1.2
+source:
+    sha256: bb79f35777233e277d86c4ff95db704ef09b6b3fcc662d5c04612e83ac19492a
+    url: https://pypi.io/packages/source/p/pyntcloud/pyntcloud-0.1.2.tar.gz
+build:
+    noarch: python
+    number: '0'
+    script: /home/conda/feedstock_root/build_artifacts/pyntcloud_1570451158586/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/bin/python
+        -m pip install . -vv
+    string: py_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - bzip2 1.0.8 h516909a_1
+        - ca-certificates 2019.9.11 hecc5488_0
+        - certifi 2019.9.11 py37_0
+        - libffi 3.2.1 he1b5a44_1006
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 hf484d3e_1002
+        - openssl 1.1.1c h516909a_0
+        - pip 19.2.3 py37_0
+        - python 3.7.3 h33d41f4_1
+        - readline 8.0 hf8c457e_0
+        - setuptools 41.4.0 py37_0
+        - sqlite 3.30.0 hcee41ef_0
+        - tk 8.6.9 hed695b0_1003
+        - wheel 0.33.6 py37_0
+        - xz 5.2.4 h14c3975_1001
+        - zlib 1.2.11 h516909a_1006
+    run:
+        - numpy
+        - pandas
+        - python >=3.6.0
+        - scipy
+test:
+    imports:
+        - pyntcloud
+about:
+    dev_url: https://github.com/daavoo/pyntcloud
+    doc_url: http://pyntcloud.readthedocs.io/
+    home: http://github.com/daavoo/pyntcloud
+    license: MIT
+    license_family: MIT
+    license_file: LICENSE.md
+    summary: pyntcloud is a Python 3 library for working with 3D point clouds leveraging
+        the power of the Python scientific stack
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - daavoo

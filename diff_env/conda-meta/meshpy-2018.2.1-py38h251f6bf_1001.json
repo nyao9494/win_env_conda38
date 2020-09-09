@@ -1,0 +1,322 @@
+{
+  "build": "py38h251f6bf_1001",
+  "build_number": 1001,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38",
+    "pytools",
+    "six",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "C:\\Users\\M151325\\Anaconda38\\pkgs\\meshpy-2018.2.1-py38h251f6bf_1001",
+  "features": "",
+  "files": [
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/LICENSE",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/METADATA",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/RECORD",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/WHEEL",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/MeshPy-2018.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/meshpy/__init__.py",
+    "Lib/site-packages/meshpy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/common.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/geometry.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/gmsh.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/gmsh_reader.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/naca.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/ply.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/tet.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/tools.cpython-38.pyc",
+    "Lib/site-packages/meshpy/__pycache__/triangle.cpython-38.pyc",
+    "Lib/site-packages/meshpy/_internals.cp38-win_amd64.pyd",
+    "Lib/site-packages/meshpy/common.py",
+    "Lib/site-packages/meshpy/geometry.py",
+    "Lib/site-packages/meshpy/gmsh.py",
+    "Lib/site-packages/meshpy/gmsh_reader.py",
+    "Lib/site-packages/meshpy/naca.py",
+    "Lib/site-packages/meshpy/ply.py",
+    "Lib/site-packages/meshpy/tet.py",
+    "Lib/site-packages/meshpy/tools.py",
+    "Lib/site-packages/meshpy/triangle.py",
+    "Scripts/2to3-script.py",
+    "Scripts/2to3.exe",
+    "Scripts/idle-script.py",
+    "Scripts/idle.exe",
+    "Scripts/pydoc-script.py",
+    "Scripts/pydoc.exe",
+    ".nonadmin"
+  ],
+  "fn": "meshpy-2018.2.1-py38h251f6bf_1001.tar.bz2",
+  "license": "MIT AND LicenseRef-Proprietary-Triangle AND AGPL-3.0-or-later",
+  "link": {
+    "source": "C:\\Users\\M151325\\Anaconda38\\pkgs\\meshpy-2018.2.1-py38h251f6bf_1001",
+    "type": 1
+  },
+  "md5": "3e947c2002c454014f01d0cd87bf8e22",
+  "name": "meshpy",
+  "package_tarball_full_path": "C:\\Users\\M151325\\Anaconda38\\pkgs\\meshpy-2018.2.1-py38h251f6bf_1001.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "20942df7b9a526e4c668d8344b2aaf3629857e9fd12ba28fa4c6fc069208b093",
+        "sha256_in_prefix": "20942df7b9a526e4c668d8344b2aaf3629857e9fd12ba28fa4c6fc069208b093",
+        "size_in_bytes": 6512
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6b9d44a45a2806d919902f868034d583985ab77d753cef12c4936639f492b4bf",
+        "sha256_in_prefix": "6b9d44a45a2806d919902f868034d583985ab77d753cef12c4936639f492b4bf",
+        "size_in_bytes": 3063
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c1fd3fc949c8d1be00a841589a92e0644796e161157fe2badeef782da57f161e",
+        "sha256_in_prefix": "c1fd3fc949c8d1be00a841589a92e0644796e161157fe2badeef782da57f161e",
+        "size_in_bytes": 1951
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f4c7542343b3c2361a1e5de35a52850c827930504f8f0a6936058db5ec67b6a8",
+        "sha256_in_prefix": "f4c7542343b3c2361a1e5de35a52850c827930504f8f0a6936058db5ec67b6a8",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2a2dadfcf34098f730f780265850557d587f975b8850c325378e915504ec559b",
+        "sha256_in_prefix": "2a2dadfcf34098f730f780265850557d587f975b8850c325378e915504ec559b",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "Lib/site-packages/MeshPy-2018.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a2bf9b9de4019cfa2d4611e33d3a03353b5daeca0823a5f1157ef081ca98440f",
+        "sha256_in_prefix": "a2bf9b9de4019cfa2d4611e33d3a03353b5daeca0823a5f1157ef081ca98440f",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9cfbf7b620b06589b20b7f39805c86960a5a0a535f8bedd7df8dc9cdb19c83f9",
+        "sha256_in_prefix": "9cfbf7b620b06589b20b7f39805c86960a5a0a535f8bedd7df8dc9cdb19c83f9",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b270283f52a3f727fd302b4c48954de134da34640c4d1925693e5a0861f982bf",
+        "sha256_in_prefix": "b270283f52a3f727fd302b4c48954de134da34640c4d1925693e5a0861f982bf",
+        "size_in_bytes": 147
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/common.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f65164d6e255b48108ebe75a8141755e347adb12b88cbcf7fd3cd9ddf93cfa3d",
+        "sha256_in_prefix": "f65164d6e255b48108ebe75a8141755e347adb12b88cbcf7fd3cd9ddf93cfa3d",
+        "size_in_bytes": 8309
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/geometry.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc38f9344d32b99fcd24f3ffe01fe504a3de80bdd78535267d57b9c88697061d",
+        "sha256_in_prefix": "dc38f9344d32b99fcd24f3ffe01fe504a3de80bdd78535267d57b9c88697061d",
+        "size_in_bytes": 16777
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/gmsh.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "409ef78e9799411ef3bed917b6384f2d344e5b50bc727a845131d77c6f7c3237",
+        "sha256_in_prefix": "409ef78e9799411ef3bed917b6384f2d344e5b50bc727a845131d77c6f7c3237",
+        "size_in_bytes": 289
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/gmsh_reader.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "26f3208639417c3efd6315459f712fa0d1b9aaba89cf5e998cd3591884bc1728",
+        "sha256_in_prefix": "26f3208639417c3efd6315459f712fa0d1b9aaba89cf5e998cd3591884bc1728",
+        "size_in_bytes": 303
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/naca.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "51de9478bcaf02c9dddce244312231f89a3a8f4666df8f65494c26dd08d3ad56",
+        "sha256_in_prefix": "51de9478bcaf02c9dddce244312231f89a3a8f4666df8f65494c26dd08d3ad56",
+        "size_in_bytes": 8650
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/ply.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "b2313719363ce8e41c1dfc2819a83e9547470363bd5b55a51e598bdf4d7a2dd4",
+        "sha256_in_prefix": "b2313719363ce8e41c1dfc2819a83e9547470363bd5b55a51e598bdf4d7a2dd4",
+        "size_in_bytes": 3003
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/tet.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "580f9b901c338117d33f4371e85e3891e13503fef2bf9b3ae6057bd2642f4695",
+        "sha256_in_prefix": "580f9b901c338117d33f4371e85e3891e13503fef2bf9b3ae6057bd2642f4695",
+        "size_in_bytes": 6075
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/tools.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "39d5d68980c492104993d887be78c01e4c8687333fac27c35b47b155d7f8b0d1",
+        "sha256_in_prefix": "39d5d68980c492104993d887be78c01e4c8687333fac27c35b47b155d7f8b0d1",
+        "size_in_bytes": 3476
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/__pycache__/triangle.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4555b7bd02e369bcbcd958363a34df7d1b4dd6177052568fc5c113659b0afb51",
+        "sha256_in_prefix": "4555b7bd02e369bcbcd958363a34df7d1b4dd6177052568fc5c113659b0afb51",
+        "size_in_bytes": 6410
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/_internals.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "37e5025e0cb3b6a14cba3f14225c2c54acb39214e72eea8c4552b2eea5b52697",
+        "sha256_in_prefix": "37e5025e0cb3b6a14cba3f14225c2c54acb39214e72eea8c4552b2eea5b52697",
+        "size_in_bytes": 788480
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/common.py",
+        "path_type": "hardlink",
+        "sha256": "95acded4cf693f70d9c198e0ef29252b40828adc7fe9f883723284997c201a63",
+        "sha256_in_prefix": "95acded4cf693f70d9c198e0ef29252b40828adc7fe9f883723284997c201a63",
+        "size_in_bytes": 9159
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/geometry.py",
+        "path_type": "hardlink",
+        "sha256": "f23ef6faa52b52780e5b1fbf25c1d07ad40070c14bf2f1b9355df068b7b92a24",
+        "sha256_in_prefix": "f23ef6faa52b52780e5b1fbf25c1d07ad40070c14bf2f1b9355df068b7b92a24",
+        "size_in_bytes": 17387
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/gmsh.py",
+        "path_type": "hardlink",
+        "sha256": "3aa6c81bcd3ca59b9b8a4b71b488d720792200d7682b66831d4df2f16858d715",
+        "sha256_in_prefix": "3aa6c81bcd3ca59b9b8a4b71b488d720792200d7682b66831d4df2f16858d715",
+        "size_in_bytes": 149
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/gmsh_reader.py",
+        "path_type": "hardlink",
+        "sha256": "ed5db45acc3bc6032e2116b721dadec98f455ae4fb2d71c7c94d30526963a1f8",
+        "sha256_in_prefix": "ed5db45acc3bc6032e2116b721dadec98f455ae4fb2d71c7c94d30526963a1f8",
+        "size_in_bytes": 156
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/naca.py",
+        "path_type": "hardlink",
+        "sha256": "625d15086349c3de7808f71e3298a69ce2d67e9a5080fc541c927454e9d76fb1",
+        "sha256_in_prefix": "625d15086349c3de7808f71e3298a69ce2d67e9a5080fc541c927454e9d76fb1",
+        "size_in_bytes": 8520
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/ply.py",
+        "path_type": "hardlink",
+        "sha256": "4da5b7f581c0a14001134e1c7352eedb2d1191b53802cc159d019ec94db0a459",
+        "sha256_in_prefix": "4da5b7f581c0a14001134e1c7352eedb2d1191b53802cc159d019ec94db0a459",
+        "size_in_bytes": 2255
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/tet.py",
+        "path_type": "hardlink",
+        "sha256": "585fa31ab18bdefdaf52083febb55534e0eae11f7774ba10b3d74745b66b1122",
+        "sha256_in_prefix": "585fa31ab18bdefdaf52083febb55534e0eae11f7774ba10b3d74745b66b1122",
+        "size_in_bytes": 6644
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/tools.py",
+        "path_type": "hardlink",
+        "sha256": "fa88feb4babd553dfed692be8e6f2e88bf1165a14a7591f8d6ddffcab8259503",
+        "sha256_in_prefix": "fa88feb4babd553dfed692be8e6f2e88bf1165a14a7591f8d6ddffcab8259503",
+        "size_in_bytes": 3826
+      },
+      {
+        "_path": "Lib/site-packages/meshpy/triangle.py",
+        "path_type": "hardlink",
+        "sha256": "91fc7989940e1c147cddded3a9d22914730d9fa1beedc97d6aa16cd8f18c4695",
+        "sha256_in_prefix": "91fc7989940e1c147cddded3a9d22914730d9fa1beedc97d6aa16cd8f18c4695",
+        "size_in_bytes": 7630
+      },
+      {
+        "_path": "Scripts/2to3-script.py",
+        "path_type": "hardlink",
+        "sha256": "cd4c36af54383d8c7103721fb491e5b0a5f5d7c71b85456d6a894bd61f1eb092",
+        "sha256_in_prefix": "cd4c36af54383d8c7103721fb491e5b0a5f5d7c71b85456d6a894bd61f1eb092",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "Scripts/2to3.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      },
+      {
+        "_path": "Scripts/idle-script.py",
+        "path_type": "hardlink",
+        "sha256": "d43ef2f45ffd2551b678003ade97d9b4a17413c322935571c006d2871d96e8f6",
+        "sha256_in_prefix": "d43ef2f45ffd2551b678003ade97d9b4a17413c322935571c006d2871d96e8f6",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "Scripts/idle.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      },
+      {
+        "_path": "Scripts/pydoc-script.py",
+        "path_type": "hardlink",
+        "sha256": "61515cdba67a1834887d8dc57507788ef40253c58c2c8c95596d52a80694ae06",
+        "sha256_in_prefix": "61515cdba67a1834887d8dc57507788ef40253c58c2c8c95596d52a80694ae06",
+        "size_in_bytes": 57
+      },
+      {
+        "_path": "Scripts/pydoc.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "meshpy",
+  "sha256": "b489e877b7d178fea54ebdbd1177b24fb313d8167776d571d0fa8fbb1ec16093",
+  "size": 412116,
+  "subdir": "win-64",
+  "timestamp": 1598220562886,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/meshpy-2018.2.1-py38h251f6bf_1001.tar.bz2",
+  "version": "2018.2.1"
+}

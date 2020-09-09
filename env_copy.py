@@ -72,7 +72,7 @@ class env_copy_anaconda():
         c=pd.read_csv("file_env_diff.csv", index_col=0)
         li=c["path"].values.tolist()
         for f_path_moto in li:
-            f_path_copy = f_path_moto.replace(r"C:\Users\mineo\Anaconda38",home_path)
+            f_path_copy = f_path_moto.replace(r"C:\Users\M151325\Anaconda38",home_path)
             if not os.path.exists(os.path.dirname(f_path_copy)):
                 os.makedirs(os.path.dirname(f_path_copy))
             try:
@@ -92,8 +92,8 @@ class env_copy_anaconda():
         home_path = os.path.join(os.getcwd(),"diff_env")
         # shutil.copytree("diff_env",folder_path)
         for f_path_moto in li:
-            f_path_copy = f_path_moto.replace(r"C:\Users\mineo\Anaconda38",self.anaconda_dir)
-            f_path_moto = f_path_moto.replace(r"C:\Users\mineo\Anaconda38",home_path)
+            f_path_copy = f_path_moto.replace(r"C:\Users\M151325\Anaconda38",self.anaconda_dir)
+            f_path_moto = f_path_moto.replace(r"C:\Users\M151325\Anaconda38",home_path)
             if not os.path.exists(os.path.dirname(f_path_copy)):
                 os.makedirs(os.path.dirname(f_path_copy))
             shutil.copyfile(f_path_moto,f_path_copy)

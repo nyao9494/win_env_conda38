@@ -1,0 +1,138 @@
+# This file created by conda-build 3.18.11
+# ------------------------------------------------
+
+package:
+    name: py-opencv
+    version: 4.0.1
+source:
+    -   git_rev: 4.0.1
+        git_url: https://github.com/opencv/opencv
+        patches:
+            - 0001-Use-OpenCV_INSTALL_BINARIES_PREFIX-instead-of-hardco.patch
+            - 0003-2-pythons-Debug-cmake-dependency-stuff.patch
+            - 0004-2-pythons-Debug-all-variables-in-modules-python-CMak.patch
+    -   fn: opencv_contrib-4.0.1.tar.gz
+        folder: opencv_contrib-4.0.1
+        sha256: 0d8acbad4b7074cfaafd906a7419c23629179d5e98894714402090b192ef8237
+        url: https://github.com/opencv/opencv_contrib/archive/4.0.1.tar.gz
+build:
+    ignore_run_exports:
+        - ffmpeg
+        - freetype
+        - harfbuzz
+        - hdf5
+        - jasper
+        - jpeg
+        - libpng
+        - libprotobuf
+        - libtiff
+        - zlib
+    number: 0
+    run_exports:
+        - py-opencv >=4.0.1,<4.1.0a0
+    string: py38he44ac1e_0
+requirements:
+    build:
+        - cmake 3.14.0 h33f27b4_0
+        - jom 1.1.2 h3bd88b9_0
+        - m2-base 1.0.0 3
+        - m2-bash 4.3.042 5
+        - m2-bash-completion 2.3 2
+        - m2-catgets 1.1 3
+        - m2-coreutils 8.25 102
+        - m2-dash 0.5.8 2
+        - m2-file 5.25 2
+        - m2-filesystem 2016.04 4
+        - m2-findutils 4.6.0 2
+        - m2-gawk 4.1.3 2
+        - m2-gcc-libs 5.3.0 4
+        - m2-gettext 0.19.7 4
+        - m2-gmp 6.1.0 3
+        - m2-grep 2.22 4
+        - m2-gzip 1.7 2
+        - m2-inetutils 1.9.2 2
+        - m2-info 6.0 2
+        - m2-less 481 2
+        - m2-libasprintf 0.19.7 4
+        - m2-libcatgets 1.1 3
+        - m2-libcrypt 1.3 2
+        - m2-libgettextpo 0.19.7 4
+        - m2-libiconv 1.14 3
+        - m2-libintl 0.19.7 4
+        - m2-liblzma 5.2.2 2
+        - m2-libpcre 8.38 2
+        - m2-libreadline 6.3.008 8
+        - m2-libutil-linux 2.26.2 2
+        - m2-libxml2 2.9.2 3
+        - m2-mintty 1!2.2.3 2
+        - m2-mpfr 3.1.4 2
+        - m2-msys2-launcher-git 0.3.28.860c495 2
+        - m2-msys2-runtime 2.5.0.17080.65c939c 3
+        - m2-ncurses 6.0.20160220 2
+        - m2-sed 4.2.2 3
+        - m2-tftp-hpa 5.2 2
+        - m2-time 1.7 2
+        - m2-ttyrec 1.0.8 2
+        - m2-tzcode 2015.e 2
+        - m2-util-linux 2.26.2 2
+        - m2-which 2.21 3
+        - m2-zlib 1.2.8 4
+        - m2w64-libwinpthread-git 5.0.0.4634.697f757 2
+        - m2w64-pkg-config 0.29.1 2
+        - msys2-conda-epoch 20160418 1
+        - vc 14.1 h0510ff6_4
+        - vs2015_runtime 14.16.27012 hf0eaf9b_0
+        - vs2017_win-64 19.16.27032.1 hb4161e2_0
+        - vswhere 2.7.1 h21ff451_0
+    host:
+        - blas 1.0 mkl
+        - ca-certificates 2019.10.16 0
+        - eigen 3.3.7 h74a9793_0
+        - icc_rt 2019.0.0 h0cc432a_1
+        - intel-openmp 2019.4 245
+        - jpeg 9b hb83a4c4_2
+        - libopencv 4.0.1 hbb9e17c_0
+        - libpng 1.6.37 h2a8f88b_0
+        - libtiff 4.0.10 hb898794_2
+        - mkl 2019.4 245
+        - mkl-service 2.3.0 py38hb782905_0
+        - numpy 1.11.3 py38h35d8231_12
+        - numpy-base 1.11.3 py38hc3f5095_12
+        - openssl 1.1.1d he774522_3
+        - python 3.8.0 hff0d562_2
+        - six 1.12.0 py38_1000
+        - sqlite 3.30.1 he774522_0
+        - vc 14.1 h0510ff6_4
+        - vs2015_runtime 14.16.27012 hf0eaf9b_0
+        - xz 5.2.4 h2fa13f4_4
+        - zlib 1.2.11 h62dcd97_3
+        - zstd 1.3.7 h508b16e_0
+    run:
+        - libopencv 4.0.1 hbb9e17c_0
+        - numpy >=1.11.3,<2.0a0
+        - python >=3.8,<3.9.0a0
+        - vc >=14.1,<15.0a0
+        - vs2015_runtime >=14.16.27012,<15.0a0
+test:
+    imports:
+        - cv2
+        - cv2.xfeatures2d
+    requires:
+        - vs2017_win-64
+about:
+    description: 'OpenCV (Open Source Computer Vision Library) includes several hundreds
+        of computer vision algorithms.
+
+        It has a modular structure,which means that the package includes several shared
+        or static libraries.
+
+        '
+    doc_source_url: https://github.com/opencv/opencv/tree/master/doc
+    doc_url: http://docs.opencv.org/
+    home: http://opencv.org/
+    license: BSD 3-clause
+    license_family: BSD
+    summary: Computer vision and machine learning software library.
+extra:
+    copy_test_source_files: true
+    final: true

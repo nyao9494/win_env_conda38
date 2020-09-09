@@ -1,4 +1,16 @@
 
+## git
+
+```
+git add .
+git commit -m "first"
+git push
+```
+
+## link
+
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 ## set_up_1
 
 BASE:Anaconda3-2020.07-Windows-x86_64
@@ -21,5 +33,29 @@ jupyter labextension install jupyterlab-drawio
 ## set_up_2
 
 ```
+pip install cufflinks
+pip install docx2txt
+pip install PyAutoGUI
+conda install pyntcloud -c conda-forge
+conda install -c conda-forge pdfminer.six
+pip install PyPDF2
+pip install pysimplegui
+pip install PySimpleGUIWeb
+pip install python-docx
+pip install python-pptx
+pip install python-redmine
+pip install selenium
+conda install -c conda-forge shapely
+conda install -c conda-forge opencv
+conda install -c conda-forge vtk
+conda install -c conda-forge trimesh
+pip install splipy
+pip install pyvtk
+pip install easygui
+pip install PyMuPDF
+pip install camelot-py[cv]  
+conda install -c conda-forge meshpy
 
+set PYTHONUTF8=1
+pip install sectionproperties
 ```
