@@ -1,0 +1,15 @@
+site-packages/traittypes-0.2.1.dist-info/INSTALLER
+site-packages/traittypes-0.2.1.dist-info/LICENSE
+site-packages/traittypes-0.2.1.dist-info/METADATA
+site-packages/traittypes-0.2.1.dist-info/RECORD
+site-packages/traittypes-0.2.1.dist-info/REQUESTED
+site-packages/traittypes-0.2.1.dist-info/WHEEL
+site-packages/traittypes-0.2.1.dist-info/direct_url.json
+site-packages/traittypes-0.2.1.dist-info/top_level.txt
+site-packages/traittypes/__init__.py
+site-packages/traittypes/_version.py
+site-packages/traittypes/tests/__init__.py
+site-packages/traittypes/tests/test_import_errors.py
+site-packages/traittypes/tests/test_traittypes.py
+site-packages/traittypes/tests/test_validators.py
+site-packages/traittypes/traittypes.py

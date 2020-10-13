@@ -1,0 +1,1 @@
+["m2-base", "m2-filesystem", "pexpect", "responses", "m2-bash", "pytest", "mock"]

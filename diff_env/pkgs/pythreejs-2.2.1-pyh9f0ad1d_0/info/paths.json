@@ -1,0 +1,1739 @@
+{
+  "paths": [
+    {
+      "_path": "etc/jupyter/nbconfig/notebook.d/jupyter-threejs.json",
+      "path_type": "hardlink",
+      "sha256": "0836736f8d9c8d80be81eefeaa79f23048c03071d18eaec115a6b186f6320b16",
+      "size_in_bytes": 74
+    },
+    {
+      "_path": "share/jupyter/lab/extensions/jupyter-threejs-2.2.0.tgz",
+      "path_type": "hardlink",
+      "sha256": "d54251f44547228d7690c14ccb43181b97ac8e7ad0f6671a8159e241d4b68028",
+      "size_in_bytes": 1400781
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-threejs/extension.js",
+      "path_type": "hardlink",
+      "sha256": "59191b5e1a3686a648ec68a8ce43a649c513e9d1a053496ec2d1c81de1ee9f61",
+      "size_in_bytes": 1266
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-threejs/index.js",
+      "path_type": "hardlink",
+      "sha256": "4e35653798bcd48efd26b5f903bc1cb9353584265ad0aa1a7d7780b7f9a0c08c",
+      "size_in_bytes": 629449
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-threejs/index.js.map",
+      "path_type": "hardlink",
+      "sha256": "65cc3bc14f44bedc8dbe20f9d34b1cade7a184e25f367ddb7d1bf1ce4f38b210",
+      "size_in_bytes": 2520500
+    },
+    {
+      "_path": "share/jupyter/nbextensions/jupyter-threejs/three.js",
+      "path_type": "hardlink",
+      "sha256": "3ed7c9316c0724813330f2720111f295827ac22a04da471f167c0fa06b9f28e5",
+      "size_in_bytes": 555650
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "79c1a8171d4e65fbc146aea90f4575d40e1e9b694950f73a8d49ad3b5d90f42b",
+      "size_in_bytes": 3469
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "7bb4a10c6421ddeb45dfff4587f6417a4d66d665ebd81edb7cec05d7f86d1449",
+      "size_in_bytes": 1519
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "15bcfdf0aa12931fe81ade9792d23b8ffcb6d9dc1d1bd1a5629485ac01329f3f",
+      "size_in_bytes": 47229
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "581cffa3c01a21b325fae06640827976ed6e76fb84b0613ef6dca30687b3ddfa",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "site-packages/pythreejs-2.2.1.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "ea14f7c236afaa5c5ef19220ade1986203bd44d3367d67d5ed9e4f87a8fde8e8",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "site-packages/pythreejs/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a5e43c48f0898c84704b30ea9686161f2f5e9e73a1cd54fc3eeee6499f95739a",
+      "size_in_bytes": 11107
+    },
+    {
+      "_path": "site-packages/pythreejs/_base/Three.py",
+      "path_type": "hardlink",
+      "sha256": "fdc6bd5ba776a3af0a587d13f12ef90addf50b512980c9db15b27cd18c6b7cf9",
+      "size_in_bytes": 1815
+    },
+    {
+      "_path": "site-packages/pythreejs/_base/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/_base/renderable.py",
+      "path_type": "hardlink",
+      "sha256": "ca9440af23e51b705de1799c5e4191c925c769662ef0031f2684afaf90924ae3",
+      "size_in_bytes": 2979
+    },
+    {
+      "_path": "site-packages/pythreejs/_base/uniforms.py",
+      "path_type": "hardlink",
+      "sha256": "22282feabb60eb86c7b0d3028c65d8f1688bf4db5c661b36157cf1750c9b7210",
+      "size_in_bytes": 1679
+    },
+    {
+      "_path": "site-packages/pythreejs/_example_helper.py",
+      "path_type": "hardlink",
+      "sha256": "22e670469d9af4eaa36d07aa588e75a9c7881e112de32dafc2a1e7d1737977a9",
+      "size_in_bytes": 407
+    },
+    {
+      "_path": "site-packages/pythreejs/_package.py",
+      "path_type": "hardlink",
+      "sha256": "3969c84ecea70674b203ce024286fbe7d3dd9eee80280c27dac80024e3d48305",
+      "size_in_bytes": 63
+    },
+    {
+      "_path": "site-packages/pythreejs/_version.py",
+      "path_type": "hardlink",
+      "sha256": "c81c19c122f885a121f2be68c74de389ff62e6902a0bf3aa4c9b6693b88e1ca7",
+      "size_in_bytes": 802
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationAction.py",
+      "path_type": "hardlink",
+      "sha256": "5210a41244d47d36b52d017bf784fc2828f56ad0e3bc3192c680c833fd8eb48e",
+      "size_in_bytes": 1289
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationAction_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "533c435bea7ab5bef13ffb3d1a67b383645fd38ea02c0436cb834413bc2cfff7",
+      "size_in_bytes": 2214
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationClip_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "452c9ef9e858030deb0439ceb0597bc72a80ad2d6efed905acbcba857eacf488",
+      "size_in_bytes": 1393
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationMixer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6e0a25b75edc45e238777305ee7ca35fc42d3ad5ac4ca0fd40fa1b1b74c5c2f3",
+      "size_in_bytes": 1395
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationObjectGroup_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3eeaa93c9ba06c52307b80be20cdf4a537c866d768e31abfc26f56d55d7c46f6",
+      "size_in_bytes": 1067
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/AnimationUtils_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7a6e6d378a8216316a26fc2206000959af2bfd71a48fc9aba4972fd130decca7",
+      "size_in_bytes": 1025
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/KeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "108f8eff1aaaa15d769221353dc2a4103496b229409f61d87c783cf0465ee6e8",
+      "size_in_bytes": 1491
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/PropertyBinding_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0a7ee67a146740db6c3ade81834ffb7986f2041bd790de796f11ec69f8b8fe79",
+      "size_in_bytes": 1032
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/PropertyMixer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5f5aec15662ca62312d07f525a7c54b8aaf2bd7a17ba393374c6c4a6ccd22e8f",
+      "size_in_bytes": 1018
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/BooleanKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ed6f140f0ffe46503b569d109c47e9c7c14be4ee3093efaf8b289a5fec2344db",
+      "size_in_bytes": 1309
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/ColorKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a2f2ecdca780dfed0f1d5f29045f2c0bb0cb35dde1d14d9c0299bbcb3f8b0f5b",
+      "size_in_bytes": 1295
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/NumberKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "73f343f787733e521d021895ef555f22368cffa8e0ccf681788906807cd4469c",
+      "size_in_bytes": 1302
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/QuaternionKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "59f3be2cec9dff0feed68f87e2276836f2bf179504a08d504b31f675d72dd6eb",
+      "size_in_bytes": 1330
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/StringKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5a28eecfc0330472fccd9da3eebe4c6157b2e8135e579e2813dcdd96abcfe856",
+      "size_in_bytes": 1302
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/VectorKeyframeTrack_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9fc473c20722b5e2efb7f794e2c2dc624e36debf59c328292ca1d82a39712067",
+      "size_in_bytes": 1302
+    },
+    {
+      "_path": "site-packages/pythreejs/animation/tracks/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/audio/AudioAnalyser_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0e6c1ecb7bbab73798cb130c90507372488ad2272e723a6c145c85951189339e",
+      "size_in_bytes": 1014
+    },
+    {
+      "_path": "site-packages/pythreejs/audio/AudioListener_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "33d0cedde160f285d9728145d660301f08fadac405c562d14367c83d82a0ec65",
+      "size_in_bytes": 1014
+    },
+    {
+      "_path": "site-packages/pythreejs/audio/Audio_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f88a2125e98175efe2f39369faf1a79a0fcba99a993cae9ab662e4259e24d138",
+      "size_in_bytes": 958
+    },
+    {
+      "_path": "site-packages/pythreejs/audio/PositionalAudio_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "49be96dac9c24de48523a6aabf16b28609227f1c978501db4d632e4a8aac28f5",
+      "size_in_bytes": 1028
+    },
+    {
+      "_path": "site-packages/pythreejs/audio/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/ArrayCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "04afd7710ba3144c4af47255f40d7dbeb53004c17d3361992d47ec3983691213",
+      "size_in_bytes": 1259
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/Camera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0e89fb4467253acfb1f6e9b44094494a56cdac76e95cb4f2fe6d6e64235c9588",
+      "size_in_bytes": 1256
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/CombinedCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bdd294bd3deb7d5d61ae3a5c1137c1764386942a0911ea02ccae011e23e95ecb",
+      "size_in_bytes": 2084
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/CubeCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9a24de80904c8fb548886a9000edd56f8f3e7e79c51af435a561d0925fafa9ac",
+      "size_in_bytes": 1060
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/OrthographicCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6e6f1887cce0a7e54516263b13a24311b2035ec69d2fa4432311cf9cb132ece7",
+      "size_in_bytes": 1767
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/PerspectiveCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "af551c751ff826c33f58cc0332ab086bab29e23a07a56a6eeee197aafe36957c",
+      "size_in_bytes": 1624
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/StereoCamera_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "266e2c402b978f16b88791d0a12c2c182b45c86c01e2d4747ca09d5372ddd020",
+      "size_in_bytes": 1391
+    },
+    {
+      "_path": "site-packages/pythreejs/cameras/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/Controls_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "48924959fb691dc3b35f4d41dbb956309ed6e25e705de1c3efac077705c45b68",
+      "size_in_bytes": 1162
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/FlyControls_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "cab0a384a0972e6b61be9b0db11fb38ba9b588f20365e1f064b8990958fa7999",
+      "size_in_bytes": 1438
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/OrbitControls.py",
+      "path_type": "hardlink",
+      "sha256": "877776320aef2e7be51bbf4c8a197f1edf94fb0856413383d2030a252e6564e7",
+      "size_in_bytes": 364
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/OrbitControls_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "26d1c4a2a579e3df4c6d3722c858d6c7279d0505b2156ebaad28f49457c78567",
+      "size_in_bytes": 2659
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/Picker_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "81432253e0416e7db0b47223365e25ee17da609904f34577fa0aa7160dbdbec2",
+      "size_in_bytes": 1877
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/TrackballControls_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c3d41e836de6dfaeac60ff6410397ab7b16bf9ad66f00f9f3c2d07cd8a573ed7",
+      "size_in_bytes": 1984
+    },
+    {
+      "_path": "site-packages/pythreejs/controls/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BaseBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0e33b1cbf4ee362065555ad967afc05f4b9b3d30c29dce8eafa877bda2527b3b",
+      "size_in_bytes": 1223
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BaseGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3608bfb2ebdd2416f1b511d513bd5cf09efbf167a5e0eacaad5ee97f0e41a1f4",
+      "size_in_bytes": 1181
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BufferAttribute.py",
+      "path_type": "hardlink",
+      "sha256": "748004b0c0953b7aa3dd1e5553d2721e80f9d50feb81aff1f87869d06d28372c",
+      "size_in_bytes": 698
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BufferAttribute_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b915158d23b0b5ef1fd2f07e5bfe81ec1eb3caeb37c8a07118ac2399f4460d49",
+      "size_in_bytes": 1421
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BufferGeometry.py",
+      "path_type": "hardlink",
+      "sha256": "9c32de32919d7e7c731d9e3e625b2bb9325b81d9d2f86b4d0c71a9917baa9650",
+      "size_in_bytes": 3418
+    },
+    {
+      "_path": "site-packages/pythreejs/core/BufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "fdbe62eb24353cf8d6930f09b0cbe8ca2caf256efa898e3725cae1c200f62daf",
+      "size_in_bytes": 2182
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Clock_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "8916c3c3bdbd360c704ce63bdedc52ffc2bcb086f4ec91aabf4726f7d11be861",
+      "size_in_bytes": 957
+    },
+    {
+      "_path": "site-packages/pythreejs/core/DirectGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9d353465fbc78caeb8e0d29d70a5461faa40daea8debb40bcaaadd637cac3a6f",
+      "size_in_bytes": 1020
+    },
+    {
+      "_path": "site-packages/pythreejs/core/EventDispatcher_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a8c1d69149e134992ac2bcad2cb60c7bd57ff0327071e543335924530f9f1db9",
+      "size_in_bytes": 1027
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Geometry.py",
+      "path_type": "hardlink",
+      "sha256": "9f2725fbeb3d4dc38dfa9d329f53dded251dbccfad293a3c580d400245779bfd",
+      "size_in_bytes": 1124
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Geometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ee29f15816b00f29e0edd4a3d55e0a8b28eff4bc39aa4831a0fb6eb7e66835e2",
+      "size_in_bytes": 1687
+    },
+    {
+      "_path": "site-packages/pythreejs/core/InstancedBufferAttribute_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "31120721ebba140e9e263a8cad4f8880b93e224a16d0a0d9b944302aa9695ccf",
+      "size_in_bytes": 1288
+    },
+    {
+      "_path": "site-packages/pythreejs/core/InstancedBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7ea7dd635d7ea2789ca84b4c8e50bcaa66459b4761e309be53b3714f2dc102ec",
+      "size_in_bytes": 1243
+    },
+    {
+      "_path": "site-packages/pythreejs/core/InstancedInterleavedBuffer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4e44499b1a515e96d293b4799a433da0f5d5b6a16d3e16b6f535984952dce0d0",
+      "size_in_bytes": 1316
+    },
+    {
+      "_path": "site-packages/pythreejs/core/InterleavedBufferAttribute_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a9d2bb2bda24d74c44d9608e3247b6bb48e8d056744f370c9cd199510c6d0047",
+      "size_in_bytes": 1640
+    },
+    {
+      "_path": "site-packages/pythreejs/core/InterleavedBuffer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "295ac3dd672f7e9a58b47bd3c3913dde4ba1f96915617ff90b0eb418a42f09fa",
+      "size_in_bytes": 1319
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Layers_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "812929f6abc6a231db397d5d3483a4cc3e00b80fa75054a845426e1f71fcd9c5",
+      "size_in_bytes": 964
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Object3D.py",
+      "path_type": "hardlink",
+      "sha256": "dfb0a54bc9cbd211b0b90d38f7f084a595bb1213dfa62764d747ee105d7ebd69",
+      "size_in_bytes": 2477
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Object3D_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0e6d16a0ca9d086fa0f67e05d2e0e3b6a9be29db8bc6327400f2f4e80859ece5",
+      "size_in_bytes": 2370
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Raycaster_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "12f8eeb73cf6cc912e84fe49465fb55ab30640a2468b3ccb749a4af90f4e5934",
+      "size_in_bytes": 1616
+    },
+    {
+      "_path": "site-packages/pythreejs/core/Renderer.py",
+      "path_type": "hardlink",
+      "sha256": "615309708eceadd02fa13228422a59a8091052ce170174f87928f93f19ef2910",
+      "size_in_bytes": 2932
+    },
+    {
+      "_path": "site-packages/pythreejs/core/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/enums.py",
+      "path_type": "hardlink",
+      "sha256": "1e1ad67bb1d58a2528f9204d3273b0f2a71fc07a9d867b7a91b9e432bee86f9d",
+      "size_in_bytes": 7402
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/CurvePath_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "67a171afd5f54692dd87902663e9273b4344ad4ad59fc8272bfbbfcd63f6065a",
+      "size_in_bytes": 997
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/Curve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5c3a5435db399f9ed6cca318780f9eac20fea0fe98a34186082c1a826cee998d",
+      "size_in_bytes": 969
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/Font_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "19ac19804c217529e4e9ad03d02a480b544912931032b70e3e4b644c97fc7bcc",
+      "size_in_bytes": 962
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/Path_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ecb0ac45d7d0aac5f0cb843b5a7405ef9be268cd7b840b36ff6f2c0481a97931",
+      "size_in_bytes": 962
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/ShapePath_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3d65fbb04e41dfc529141d348015bc0cd51ae3afa011242933957a50ddcd2f38",
+      "size_in_bytes": 997
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/Shape_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "21be7ad09f3fc160ad01fa7b66f0d44fa87afd4eced44df8afc700b6186928c1",
+      "size_in_bytes": 969
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/core/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/ArcCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c389c5e5d4b2fbca71029cfff1f36304d183e313ce2f082feed22a2fa04bdbab",
+      "size_in_bytes": 992
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/CatmullRomCurve3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "1d91a4c2fe8ca0dc9bcf500a7f2e25125e12cd786247683450854ac8bd10f407",
+      "size_in_bytes": 1048
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/CubicBezierCurve3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "516a4b876d6e232f3a5fd09e6a59b3716ac3f80fa26958deee9e105a806b3517",
+      "size_in_bytes": 1055
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/CubicBezierCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "72dcd3c10f2f3e3bb8c6d6234382df398513455c93f7fbd4c1f6c3e38caf9e8d",
+      "size_in_bytes": 1048
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/EllipseCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f71411c57168699b59e305e13db0276e43bdc54d3ccf7952c95c9c9550e26051",
+      "size_in_bytes": 1020
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/LineCurve3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7e0b289e49934f9ffd98969fd3c6d87151fa3a44e5e1568e4ceab7d004e9b3d8",
+      "size_in_bytes": 1006
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/LineCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c426e5c9810855c1c65d5571e0934b6af1f66df21f5cb324ff8c310e28c6703c",
+      "size_in_bytes": 999
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/QuadraticBezierCurve3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c7f12ba3781344cbf9563ff29509dc072e0aec46fe5b9b5030e04e732a67ff2b",
+      "size_in_bytes": 1083
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/QuadraticBezierCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9a3c6e28c1d9b8047d0aa897641959e0d99449fc8b40dd833560ea2f33124a31",
+      "size_in_bytes": 1076
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/SplineCurve_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "83768443fbdc5686aad9db60f5fc56e05cc22eb43e33ff6e78d9cb96bba03cce",
+      "size_in_bytes": 1013
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/curves/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/objects/ImmediateRenderObject_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b151690b1879262c2ee20d039f35981bbc62d45f414ca767090d889eda3ade51",
+      "size_in_bytes": 1105
+    },
+    {
+      "_path": "site-packages/pythreejs/extras/objects/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/BoxBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "dc3505665b889609831fef9ac1c4bcb4f0c29e1b73758f7b21a369906c168c0b",
+      "size_in_bytes": 1849
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/BoxGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "8c53ca833fbbb009d3a3325259c7463464e4259c017a27480dac022ffc043943",
+      "size_in_bytes": 1789
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/BoxLineGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6b53b0f9f899bae5ba8bcb1b489894c1676cbe5b77fa683fcdc1b0761dc4c065",
+      "size_in_bytes": 1835
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/CircleBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6798c401f8f614238df98e5be84c4dbfc68c5bbf0f41358475d79abe387e201c",
+      "size_in_bytes": 1672
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/CircleGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "dece05cce2801fa28e20ae416191f2083e53626580919c4f9614354779dd7743",
+      "size_in_bytes": 1612
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/ConeGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "2d81a34fca25d99c2d17811322e38b56036c202c92d3a98f7acded4c0cb666d8",
+      "size_in_bytes": 1979
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/CylinderBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bb8ffde7ca3750bd868713e3ace2b0a153f27fd4dbf44ef802b304c0472d317c",
+      "size_in_bytes": 2205
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/CylinderGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "57487bab5921bb2bfb7369ce88d7ae44d02039cc1c10174a143644558acbfc4b",
+      "size_in_bytes": 2145
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/DodecahedronGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bf91e9f47b97ae4624c44e8b7e495038f35af5ec8576eb0ed060e151030d2462",
+      "size_in_bytes": 1369
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/EdgesGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c2d7bdf41b8fcd1f49450e80ba9e2c2d337e7bf9f6d20047f48869d13e3d1511",
+      "size_in_bytes": 1544
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/ExtrudeGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "31c274d1bc1c7b1d77e1daf6c45211234abda8f46c9d7d89fa0e8c64db39d508",
+      "size_in_bytes": 1144
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/IcosahedronGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bcc90ad3c9e8661b11c18d5295c636dc3322d11c8ec5e1913af8946ab143b42a",
+      "size_in_bytes": 1361
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/LatheBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6238047ad68cf3e1e7c48997f33c0dbf1bc3306420fe9156512318a8b6461ab1",
+      "size_in_bytes": 1635
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/LatheGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d25603d0c1052fbf4173aa04903f8ce77915f66d94829b31121d34250fb0b940",
+      "size_in_bytes": 1575
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/LineGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6c5163c5d593cf58f0b515d28ff8382c6fdefd43f4b6db69b2261d2ffc680535",
+      "size_in_bytes": 1398
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/LineSegmentsGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e838c7d05b78ad00c50e9c75d5a1fda754dcaea4d45b1fb52bdb04365520ba6e",
+      "size_in_bytes": 1460
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/OctahedronGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a76bd8fc1f25b758497c24df4b01b13f5b1bb1f9162d7667bbc3729a3f10e094",
+      "size_in_bytes": 1353
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/ParametricGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a504cec5e6991ff38c27252a6b8b265b0d996a34801c292b7478a75138788e1b",
+      "size_in_bytes": 1452
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/PlaneBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "8a7200b9dc0a8b0ccf9702b7b4d07fe962995103784e8d4d4fe4458d3ca10ccc",
+      "size_in_bytes": 1635
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/PlaneGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "021682db7f9a7658da9163abad26273587fc3db9b0c4e54d9f1137c02958df67",
+      "size_in_bytes": 1575
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/PolyhedronGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "daa7e354186ec4aa2abc96a7d1a61768aa2516feb7e2ee5521f39b891473eac0",
+      "size_in_bytes": 1566
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/RingBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "973e1f5645c8d46d65e3fdff41d99420b8de8acc7811bddab39a259474035b3c",
+      "size_in_bytes": 1953
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/RingGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "091273c065a96b88cee1a75f41e1440dd569bbf4b32ba6172b4894f9a9050a34",
+      "size_in_bytes": 1893
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/ShapeGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "cc573189f9b582b9d0e2049d918b582088a27e0173f4853abaf9381180864d86",
+      "size_in_bytes": 1387
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/SphereBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "fd1d83317e12f025a03a1d19c79b6f0cb531f19678d569ea53c737318fa62948",
+      "size_in_bytes": 2079
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/SphereGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f40fac51f068783791e219dbc3bec6134de57df16725fcbbddd1eb6bb66b6176",
+      "size_in_bytes": 2019
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TetrahedronGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ad87463de39de081f57099b095ac1aec0f4ab37085b4bbe2a1ba15f640db8846",
+      "size_in_bytes": 1361
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TextGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5c06fef26fb7fc641376ba5b2175ab23cdf02500ad7e26591afdb45d5f6600c3",
+      "size_in_bytes": 1120
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TorusBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "8e8af48f467082235a5d2de21ec00502fb73a3563fb1b73cf368bb86d7ca8cf0",
+      "size_in_bytes": 1767
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TorusGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "240273eb6b5d12f8e1994ed7ac3abc6d01ed3f2354c9c35252d0c6de0d5cb595",
+      "size_in_bytes": 1707
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TorusKnotBufferGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5d297ecae28fd3a25ae6712b5c93b453cd2c1aeaa038d80634ba813cddf5fd14",
+      "size_in_bytes": 1841
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TorusKnotGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4ec363732d67daae60950fc5f84fbf83ba6166141732e7d4d879601b658ebfab",
+      "size_in_bytes": 1781
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/TubeGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "788722b04892b818d8cbc9d4b9d93ef9c66c1bb8311b347fd2fad182e53c0fb5",
+      "size_in_bytes": 1730
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/WireframeGeometry_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7466b2890bbafe17e11acd26e030d4b51d31f36e41434e52f12868e712ebe226",
+      "size_in_bytes": 1434
+    },
+    {
+      "_path": "site-packages/pythreejs/geometries/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/ArrowHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9090428372ab159cdabf7ec6e06b727c2d629e7ac03d24d2afa2281939a9c1ea",
+      "size_in_bytes": 1758
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/AxesHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9cbd76e644996b0a7fa1081d7b442cdff13e230903178b7802ede2ee8903fd0f",
+      "size_in_bytes": 1156
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/Box3Helper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5c9b240dbec9f0568f5b80f58f17ddb86aa242747f958b07b732b518cc0ea807",
+      "size_in_bytes": 1334
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/BoxHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4116dd5d7e8d79d734ac76a0f49d73401e49251821e3d343213b070a51507b18",
+      "size_in_bytes": 1305
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/CameraHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3170546517c02fe0444f5c1846aae051adfd9ee88bf904080357bf954e1a7a41",
+      "size_in_bytes": 1258
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/DirectionalLightHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f827253cbed9078710bff6705c5e4005727448a2c6508c6f423b78edc0ad13c3",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/FaceNormalsHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f4cc4519dc7f7355b3cfff1c86cbc5942d5c7d67eceda8b44a089e84b82e8065",
+      "size_in_bytes": 1582
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/GridHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "72a34e93cd5ef9e74b10bc95eec339eaaf6a0f1253d76dde7017a0c0938a3b09",
+      "size_in_bytes": 1560
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/HemisphereLightHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d4ac14c5322d6cb810d1b6e92f8c4aa2f0b061ea996e8de437b5becb5c301380",
+      "size_in_bytes": 1562
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/PlaneHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bcedfd9f4bb09a92dbc0df145596561e053ed4295b55502cdba68eae682782ac",
+      "size_in_bytes": 1448
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/PointLightHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b6d41cbefb0b49a96b23f323dd257e25c67128be27cc788074dc01c55004c81d",
+      "size_in_bytes": 1531
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/PolarGridHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a5ad58a7ee7521d9357468a9773e1b78cf84634ea24d47bb03f4963c8cc4d757",
+      "size_in_bytes": 1772
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/RectAreaLightHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "1e1b140d04eb656dc3e35538e788486a8b6852004fde5a9b756d4b7eebaf35ef",
+      "size_in_bytes": 1444
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/SkeletonHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "2856ece7eacc47a7e2a33d72e44d45f3672553588dcc5703b6568b8c4adfbe4a",
+      "size_in_bytes": 1223
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/SpotLightHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "545568b87edc0060dbb36d91c1003cf0c9884ee3fbf7489fadcb4b0af1b7fc28",
+      "size_in_bytes": 1400
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/VertexNormalsHelper_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "643933d3592e55849ffd09e60ed7eb835a0784d64c4b4e3d2e1a9921182d4b8f",
+      "size_in_bytes": 1598
+    },
+    {
+      "_path": "site-packages/pythreejs/helpers/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/install.py",
+      "path_type": "hardlink",
+      "sha256": "4d360be62eb2c093b49042ed1d8c8ed2995b362acc4a4bda98e82d782ff33030",
+      "size_in_bytes": 1586
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/AmbientLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "81ba4489f0efcaf19c2069c4fed35bca75eae1a589b3db5299a220d5fbc204c1",
+      "size_in_bytes": 1172
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/DirectionalLightShadow_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6d97cc063fa8f056bfe5ec16d0a0fb02e19c79504e7dfb6061d9d252294c459e",
+      "size_in_bytes": 1085
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/DirectionalLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9ec847791f526c307acaf02ff8850659952a4ef29852f4ab23f5d785ebce8607",
+      "size_in_bytes": 1681
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/HemisphereLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "1242c543d1133d416866536862049278fc2067322d0d934409ab911b9b6d19b2",
+      "size_in_bytes": 1335
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/LightShadow_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a5feed5b2d316b458986707434848dd03cc862b5d8900b37b72416e1d0b222e2",
+      "size_in_bytes": 1486
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/Light_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ad7f793bba69d29cd17956f33203f5e2f81d178659a9da499a9e109889e38aec",
+      "size_in_bytes": 1250
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/PointLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4b90ec8dbdce6841c667933268c82a4c0ecf3461f1cb1ee756ee43a7b391ee02",
+      "size_in_bytes": 1687
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/RectAreaLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ebb6eebe973479800922d13a3af97aa72035ca0e0e03024d6dd60914f522e65e",
+      "size_in_bytes": 1388
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/SpotLightShadow_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "412b1e59f623c11c3934f30d373dd17b705563d33ae6326c30cdd34213654575",
+      "size_in_bytes": 1036
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/SpotLight_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ca5d136cf1c5efb7a0173dac628c48fcb1f94beddcc27a8d0ac3ec043aaf4238",
+      "size_in_bytes": 2083
+    },
+    {
+      "_path": "site-packages/pythreejs/lights/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/AnimationLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b40cc8140a84c32c63c930fb6192b51b2697bad83b2d9f9038537d585fb0e790",
+      "size_in_bytes": 1030
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/AudioLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c8f4ea01b51d383cba740c097b154de1870651f74f9fc68d53a56fe04b0de0b4",
+      "size_in_bytes": 1002
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/BufferGeometryLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4eb4e726195b7ab1adc3c79fc605b3cd449d0f8fac4d32de29390af63a80f3aa",
+      "size_in_bytes": 1065
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/Cache_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b480c5daeb94f72472d7121e37d9169aaf5dcabb2ff500b9d3b7e48cda35e72b",
+      "size_in_bytes": 960
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/CompressedTextureLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a5e7d15ebe8e8a8ff2d289fc207e81d1907079320c074cb791ef4bb6fc3e268d",
+      "size_in_bytes": 1086
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/CubeTextureLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3262d18701bb3be6e24c668163031ccf1380c8400b50b1f8ffbc0965b21cbfd6",
+      "size_in_bytes": 1044
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/DataTextureLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7c30cfd7da7d3d663ff95cd27978caa6ba7713b6b1d40483eb72d7b8b6e1a1b6",
+      "size_in_bytes": 1044
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/FileLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6e4a680ebd402945e1d526453342237e551cb6f33c60716735c8a7d9db4adbd5",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/FontLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "21d864b5b3de3b2b1b4a5cb66ade9f286bca47a4406b2cae19d7215e1f693f14",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/ImageBitmapLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "96b825ece0692d203a51250cca937ba5fbefd707b7247535c5992dd8f9efed70",
+      "size_in_bytes": 1044
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/ImageLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "2acf0660046eefb27f1a7ea44ce8f4186e904c2b7be54f98635716b8b43261e3",
+      "size_in_bytes": 1002
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/JSONLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "cad160f93c59dc13809f88b02d25f52108defe4d16bf88d12785cfd25506d891",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/Loader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "83ad1a19c404d74cfc5c8e05c94e0930c16005134105cc3b99b98ca6ae2abbde",
+      "size_in_bytes": 967
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/LoadingManager_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a78b0dfcb130c53274f7b59b5c5c9010d7b0b70f13c36d547df3d9a4ae54c0c8",
+      "size_in_bytes": 1023
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/MaterialLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6938c14708b01069a002f1b57cbe7e2bb8b52b127d2c644079ef06eba4f26aa7",
+      "size_in_bytes": 1023
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/ObjectLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4f366a3fd993cfc8de8fe8963f6b70b65593913555a79c6a0dbb2a0d8fddfc57",
+      "size_in_bytes": 1009
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/TextureLoader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d0f7abd1fc75bb4d526a3da1f2303ae88e8cb3477157a3563dea10cf4c09ac86",
+      "size_in_bytes": 1016
+    },
+    {
+      "_path": "site-packages/pythreejs/loaders/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/LineBasicMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e19bad9161fcc9843ba5dc51b40d4e74fd44d0a4acb8430472d8b15e8032c348",
+      "size_in_bytes": 1339
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/LineDashedMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e98c1f9933f0e53cc1d818114f87f963a8671b960946b98b2c6a08fb8412a874",
+      "size_in_bytes": 1390
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/LineMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "53b4a621523ecb37606256ebd1e6fd80de61affcec43f9f6d7e6de2a367ee45e",
+      "size_in_bytes": 1450
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/Material.py",
+      "path_type": "hardlink",
+      "sha256": "5d18baa9fd4fa65aca6ea674615ac4a0aaf289b86318babd58071ce3be528072",
+      "size_in_bytes": 501
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/Material_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "331c0b73bc805c9eeb5af465ff63fb3f1719734abce13357bac2ee422c517d76",
+      "size_in_bytes": 3385
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshBasicMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4e5411e300786a0e1453cd5f3b2c051129eced005d7ca5ef73f522c4f4a23368",
+      "size_in_bytes": 2574
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshDepthMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "47231b6147fac59ab501a39751f790df2f0b41ea8e6c675c684858c89e9586a5",
+      "size_in_bytes": 1865
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshLambertMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a3e663d0ee1bf58bb5e0b2e852adc6e9ba4bae897f69177984165c3d6b18fa82",
+      "size_in_bytes": 2827
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshMatcapMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "4a9fae52e53ac5f3a1f838765839b1d8ca550c181bf697d6e914febb9d2694fd",
+      "size_in_bytes": 2213
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshNormalMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a582b4fe43254a0ba4073a423e5d61750f969faeba665352675fa05cfb2d8978",
+      "size_in_bytes": 1344
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshPhongMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "56ace224e3e0ec1f05c977b43c4660108e76b72f3a702e8b1270b438ea37072e",
+      "size_in_bytes": 3494
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshPhysicalMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "225dd9b63ef68ef6edc016019d77568c1ac7a7bc914af679cc057c5c672958c7",
+      "size_in_bytes": 1465
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshStandardMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "365e7203e7a8856dbae0081c1bd3cde9a70298f35a86b7d3d8c3a9595e866577",
+      "size_in_bytes": 3609
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/MeshToonMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0f5db90735908b8c20a813a2a07d31944e821d88a61175972d03e2be89368fc1",
+      "size_in_bytes": 1282
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/PointsMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "21b160bd4759137086861ffae8d0223f7145a881703f53843067c1e000ebb3b9",
+      "size_in_bytes": 1449
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/RawShaderMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "877efefce77a15bc5ae7f4d4555d25e3bae38d83a8bcc0b41f400db53534d100",
+      "size_in_bytes": 1042
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/ShaderMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "2313bc5d0397a253efb738639db5853d9aee59ca348867a4d6e490fa3d115286",
+      "size_in_bytes": 2054
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/ShadowMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9428c8718076a988224f4552334306813215d3b9a82574dafa6e09f062377fad",
+      "size_in_bytes": 1239
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/SpriteMaterial_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "78dcb769ed3ee73e0ce94f642d672bec79daf8eeacc48e9e448438683bec258b",
+      "size_in_bytes": 1444
+    },
+    {
+      "_path": "site-packages/pythreejs/materials/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Box2_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5f33017d8d35f546f9428ca19cd45d3284f25b482abe34498effc47aeba400ed",
+      "size_in_bytes": 1148
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Box3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "1560474213bfecb8014ff329af6c21a2c3547a6b2fe97078e1591434d80ee39d",
+      "size_in_bytes": 1160
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Cylindrical_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "aa572ddec65199f48544d8baaf31a7d9d6624ec06b30346785b0e75b7e1d784e",
+      "size_in_bytes": 1287
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Frustum_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f75f1c12e6f85e9c50cbfdbf9d0159eb872b6b5cfd52177819985a4f7978f3eb",
+      "size_in_bytes": 1725
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Interpolant_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d0529ef996dbc3567e8211407859d891b71f6dee6a45079eddc7394df95f49e5",
+      "size_in_bytes": 999
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Line3_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d0c0ffb9a6e19b276e3d6e41b7630a61819b20fdd69d8fd2ad833dc92748f65d",
+      "size_in_bytes": 1175
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Math_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "cd19e548adbaabf01f3fa3ce621d7b4c1de72f36b2cac699889ef8095e2c323d",
+      "size_in_bytes": 950
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Plane_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c3ea07fb75e166a7892d15d25a253fa2bb1402ddeb3303a672bed7ff535bf0bd",
+      "size_in_bytes": 1186
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Quaternion_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "b69ffd4ef53b452a54b2551d43b1fcd492b9fe396aa67ab0d012aadaa2ea1192",
+      "size_in_bytes": 1328
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Ray_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "db6b81a837957d386652eaba435cfc640bc70450010071cf4620a675a5c33ba5",
+      "size_in_bytes": 1189
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Sphere_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "dcca2e8517defc1cca24cb0503e0237143f4b7f731cc9804cb5089701e9e8d4b",
+      "size_in_bytes": 1185
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Spherical_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f8cc05f0912773f1f85c6f9c6bce8656027e4d41a5e076577e43e242b6cd6c73",
+      "size_in_bytes": 985
+    },
+    {
+      "_path": "site-packages/pythreejs/math/Triangle_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "6cdf5b06338aab7953d217bf5f884561595be9b56108682c01621e586c57a2a8",
+      "size_in_bytes": 1269
+    },
+    {
+      "_path": "site-packages/pythreejs/math/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/math/interpolants/CubicInterpolant_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bd3d23fb2ccea02133538382281f04285c8cfdce5fdf46bf87acd255c1f3086f",
+      "size_in_bytes": 1073
+    },
+    {
+      "_path": "site-packages/pythreejs/math/interpolants/DiscreteInterpolant_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "fb0c2dc95bacb7c7e7ca456da703040c34b2b258899d3e9907c1e99a77e42329",
+      "size_in_bytes": 1094
+    },
+    {
+      "_path": "site-packages/pythreejs/math/interpolants/LinearInterpolant_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bd1f70e904520323ba477f7e2c647709a51da9c785b2d4c6ceccb3094b22dae4",
+      "size_in_bytes": 1080
+    },
+    {
+      "_path": "site-packages/pythreejs/math/interpolants/QuaternionLinearInterpolant_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e52ae3b120dd107f5667388dc937ae7bd5c0ba72d75db14d3219dc2b15a0ae6f",
+      "size_in_bytes": 1150
+    },
+    {
+      "_path": "site-packages/pythreejs/math/interpolants/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Blackbox.py",
+      "path_type": "hardlink",
+      "sha256": "09291dca5fc8ef139d46ef861803aa7aac39399bd7881bca45a8a0bd8923c390",
+      "size_in_bytes": 495
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Blackbox_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "69a06c716e8dae6389c023ab14b4ec3003dc9fd2442c986974aab431eb100505",
+      "size_in_bytes": 1079
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Bone_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ccbc708d968483d1e84fc8a4d861967f93daad93544710633b91ca0c35d40984",
+      "size_in_bytes": 1012
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/CloneArray_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "34b2eeb8e77bf3c2dd03e6177f540cd1541606819c30e432e1eed5f6e1074430",
+      "size_in_bytes": 1465
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Group_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3969671989020cd4cfd637dcbe685f662632656d97e216883ce35ca5f62ab4d7",
+      "size_in_bytes": 1020
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/LOD_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "10a3df83a7a5aaaf2a7ad8f76e1c93452484242e5e418f5369b1784e4cc8c630",
+      "size_in_bytes": 946
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Line2_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "60477c5b8a1dee644adf18702aacc737630bc05fbd437fd17ff9151930c20dec",
+      "size_in_bytes": 1720
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/LineLoop_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "464bc900aace4454cdcbc65700118d5766c0340b401a5d8bcf4d81d1e8239a87",
+      "size_in_bytes": 1142
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/LineSegments2_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9c07e6226cfb4704e79c4827021f4ab12493aa9046ae8d966a3b7aa60099353b",
+      "size_in_bytes": 1800
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/LineSegments_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9ef90ee9f2baf6cb75ae5c48f9ed170d625188d1b6372717df066c8369c80d5d",
+      "size_in_bytes": 1174
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Line_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f5c0944a0146946785f130a75989d216b88ee586c8e0010596f2fa65c7af8990",
+      "size_in_bytes": 1551
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Mesh_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e5c254d836ccb20f940e33dbe906f40df8228631c9d703d97c419f7e76e73b16",
+      "size_in_bytes": 1693
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Points_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "95744d714b2c341fe481eadac24f235195930110a2455c5ed19c3b7ed20c9304",
+      "size_in_bytes": 1570
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Skeleton_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "26d54bddb329f5816c946681eea7d19568cd96d27ecd3eaae337b5b9efaefef5",
+      "size_in_bytes": 1118
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/SkinnedMesh_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0fa6a3f157e4df5dd4cec20f58039f7d6f9fae68ec28cb4dcd01b129d9848d1a",
+      "size_in_bytes": 1475
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/Sprite_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5ed24fffc236649eb1f9297a9cc0f172947249d1c5dbe06e4c0ad616d99a19a2",
+      "size_in_bytes": 1309
+    },
+    {
+      "_path": "site-packages/pythreejs/objects/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/pythreejs.py",
+      "path_type": "hardlink",
+      "sha256": "676f190821361d753744bff2e71a9113f84e407d0d3e276c1747db7e99aa5821",
+      "size_in_bytes": 9581
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/WebGLRenderTargetCube_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "9982e99fa3a1a114b08065c8867ed3b1a6f97a826b79dbebb497fae86e0a653e",
+      "size_in_bytes": 1074
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/WebGLRenderTarget_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "be3bf14d79cc467622e049392e3e81109fd2d298a12c8e886681c4044a3b076d",
+      "size_in_bytes": 1046
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/WebGLRenderer.py",
+      "path_type": "hardlink",
+      "sha256": "9c76015b759a71cad0495fe4b35e658567b1ca7bae0e0204911cbf1aa5e92edb",
+      "size_in_bytes": 1242
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/ShaderChunk.autogen.json",
+      "path_type": "hardlink",
+      "sha256": "8b318d8cf141c9b0da4ee70de6a6022cf74116fdccce6444234d5b77022d8923",
+      "size_in_bytes": 93001
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/ShaderChunk_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a49192ee754861d8541724ea8c64bd1770eb7ba5a1a001b3f1ea4596fe412df7",
+      "size_in_bytes": 243
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/ShaderLib.autogen.json",
+      "path_type": "hardlink",
+      "sha256": "249517284d734dbb7b51e4d14c8c20d175ac83662a4ce41f05ee80426223bbeb",
+      "size_in_bytes": 56161
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/ShaderLib_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "18ff2a2bdd790a0d312f617beb47228f384b60b3286d90726819a331ad5c4a56",
+      "size_in_bytes": 237
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/UniformsLib.autogen.json",
+      "path_type": "hardlink",
+      "sha256": "69eeee9af4090aa56ccd621486e185e467ecdcfee800194b22b42be86d371e80",
+      "size_in_bytes": 4547
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/UniformsLib_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "fe929787f8d6075eae15ab2cc0c941d07048e34b14a2f47ec093be5dfa3869cd",
+      "size_in_bytes": 243
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/shaders/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLBufferRenderer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5771eee60acb7a30238833cca8a9cff8ec69a30e20cb1da023b1525adb6a5ddf",
+      "size_in_bytes": 1092
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLCapabilities_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "c75dad8632aa2919b384890ed271db05921e5a0d20824618623e9ec4c50aba56",
+      "size_in_bytes": 1078
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLExtensions_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "a159a0839dab28ba2589bb5e65c390f5ab86d4fd3fc536f6941b92901bf7b849",
+      "size_in_bytes": 1064
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLGeometries_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "03ba59c951c95c755817bc14b11d2caeca7f81d2a0ecff38af468481138ce5a9",
+      "size_in_bytes": 1064
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLIndexedBufferRenderer_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "7b962aab72ec5e86e20e675515a35e65c7d6a94d59dfe53a4b19235ccae63f8f",
+      "size_in_bytes": 1141
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLLights_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "da4b604721e93560b56f8359c6cc476d7d8cbee07ce8b6fa8d3a18cbd19c6cb0",
+      "size_in_bytes": 1036
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLObjects_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "eeea9de0c09e7e97f87988946fb824ef356ef101604639dae2e36e1a22314a73",
+      "size_in_bytes": 1043
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLProgram_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "bbd257de5f92601dbd9c73f7295d9153863aa7f43bb0595b81e50c5996eb2c91",
+      "size_in_bytes": 1043
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLPrograms_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "ac38f2da42b56d5bfa564077b256eee67981206f31a0230759ee74c6a72558c1",
+      "size_in_bytes": 1050
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLProperties_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "d5ec812e5da1f491bbdb49546bb2b88a0cac24f65ecbe0b8dc21441ec67dffa2",
+      "size_in_bytes": 1064
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLShader_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "e45fda6e83ddd58c583508e0505a4c0eceea7ae0d5e8ac5d006db185c6d1de07",
+      "size_in_bytes": 1036
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLShadowMap_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f5baff3f8bdca50850747511650fc29d52ec6a3818c1a2e91fb4ceb3466ce448",
+      "size_in_bytes": 1179
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/WebGLState_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "701cb1f6e9e8e8f1539978fc3731b364565c8668a06a62b639fa597fb347ea54",
+      "size_in_bytes": 1029
+    },
+    {
+      "_path": "site-packages/pythreejs/renderers/webgl/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/sage.py",
+      "path_type": "hardlink",
+      "sha256": "7fc1591981d978a6de890034f70569caf3b788110d0710396bc2b8c6552469ab",
+      "size_in_bytes": 6993
+    },
+    {
+      "_path": "site-packages/pythreejs/scenes/FogExp2_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0f884fd4db2827abfd381e176718368ca1b1ac82fd4ab7373d2e3ce193373d48",
+      "size_in_bytes": 1263
+    },
+    {
+      "_path": "site-packages/pythreejs/scenes/Fog_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "5dbdb54aa1bc30ecef2c2a16d4c8ef4a50ab32445b1b77e628564b69b48e2b70",
+      "size_in_bytes": 1309
+    },
+    {
+      "_path": "site-packages/pythreejs/scenes/Scene_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "848520f10f934da65eb0fbec42a354d6701860dcf74378c2b7ed7182f2322b56",
+      "size_in_bytes": 1514
+    },
+    {
+      "_path": "site-packages/pythreejs/scenes/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/static/extension.js",
+      "path_type": "hardlink",
+      "sha256": "59191b5e1a3686a648ec68a8ce43a649c513e9d1a053496ec2d1c81de1ee9f61",
+      "size_in_bytes": 1266
+    },
+    {
+      "_path": "site-packages/pythreejs/static/index.js",
+      "path_type": "hardlink",
+      "sha256": "4e35653798bcd48efd26b5f903bc1cb9353584265ad0aa1a7d7780b7f9a0c08c",
+      "size_in_bytes": 629449
+    },
+    {
+      "_path": "site-packages/pythreejs/static/index.js.map",
+      "path_type": "hardlink",
+      "sha256": "65cc3bc14f44bedc8dbe20f9d34b1cade7a184e25f367ddb7d1bf1ce4f38b210",
+      "size_in_bytes": 2520500
+    },
+    {
+      "_path": "site-packages/pythreejs/static/three.js",
+      "path_type": "hardlink",
+      "sha256": "3ed7c9316c0724813330f2720111f295827ac22a04da471f167c0fa06b9f28e5",
+      "size_in_bytes": 555650
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/CompressedTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "273442da1b795545709516766484dc91364f73a7ee78b320fe6386fa5e859f53",
+      "size_in_bytes": 1040
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/CubeTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3c04b5f9e150462beb2bb327f16cdcc72f0a13bcd4d137e5772fcaf3ce53baeb",
+      "size_in_bytes": 1579
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/DataTexture.py",
+      "path_type": "hardlink",
+      "sha256": "9e3216bd177bce9a509e4b0844edd2cef284f3e88505f4cdf08fc82098a30499",
+      "size_in_bytes": 994
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/DataTexture3D.py",
+      "path_type": "hardlink",
+      "sha256": "1a3722df75b3d2f9ba4957d20138cb30ed6bd6f6dfd9497c916f6b2a6a08e080",
+      "size_in_bytes": 1007
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/DataTexture3D_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "3585b1a84b16416961eba6197267f15f33552fc588b2bfd6d4f789119423f6e6",
+      "size_in_bytes": 1872
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/DataTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "f50f2520bcf2378e3feeb2c9581116553abea4b1f42b33b8fa0c4684f0734e98",
+      "size_in_bytes": 1858
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/DepthTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "77121561318c88465ad9df993645fb025119f08864d417c45e5307a801f4a14d",
+      "size_in_bytes": 2099
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/ImageTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "71db035765b0923102c4c8b26524ce14c7e784bb25f90dd0827d6e5be7f067c8",
+      "size_in_bytes": 1658
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/TextTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "0d3467a9c854fb6657ab01746c436fbce5342f7b811bf6cce7023421ea9b8e0a",
+      "size_in_bytes": 1401
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/Texture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "828b8e4b8a9cbbe57bd20d606e3b40b441cf74c5dbfb986ee101d19cd862ed33",
+      "size_in_bytes": 2300
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/VideoTexture_autogen.py",
+      "path_type": "hardlink",
+      "sha256": "23210dabb489a6330c6460287e8d2e85660b419e1230f31057afdf3b0df75392",
+      "size_in_bytes": 1010
+    },
+    {
+      "_path": "site-packages/pythreejs/textures/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/pythreejs/traits.py",
+      "path_type": "hardlink",
+      "sha256": "25fb34c022a2a83517bd6d9c6228c65b487cc4257991e8641c41dcc723caa5ec",
+      "size_in_bytes": 11378
+    }
+  ],
+  "paths_version": 1
+}

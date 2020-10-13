@@ -1,0 +1,16 @@
+{
+  "arch": null,
+  "build": "pyh9f0ad1d_2",
+  "build_number": 2,
+  "depends": [
+    "python",
+    "traitlets >=4.2.2,<6.0"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "traittypes",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1600843475481,
+  "version": "0.2.1"
+}

@@ -1,9 +1,0 @@
-{
-  "libtiff": "4.0",
-  "zlib": "1.2",
-  "cxx_compiler": "vs2017",
-  "c_compiler": "vs2017",
-  "jpeg": "9",
-  "libprotobuf": "3.6.0",
-  "libpng": "1.6"
-}

@@ -1,0 +1,25 @@
+{
+  "build": "pyh9f0ad1d_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "traitlets >=4.2.2,<6.0"
+  ],
+  "features": "",
+  "fn": "traittypes-0.2.1-pyh9f0ad1d_2.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "7d32ccb5334a6822c28af3e864550618",
+  "name": "traittypes",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "7025cbf881fcb0c872209da619e89a5facc4d428f2f04f6690bef481a8d10710",
+  "size": 10119,
+  "subdir": "noarch",
+  "timestamp": 1600843475481,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/traittypes-0.2.1-pyh9f0ad1d_2.tar.bz2",
+  "version": "0.2.1"
+}

@@ -59,3 +59,12 @@ conda install -c conda-forge meshpy
 set PYTHONUTF8=1
 pip install sectionproperties
 ```
+
+## set_up_
+
+```
+pip install blender-notebook
+pip install pytablewriter
+conda install -c conda-forge pythonocc-core=7.4.0
+conda install -c conda-forge pythreejs
+```

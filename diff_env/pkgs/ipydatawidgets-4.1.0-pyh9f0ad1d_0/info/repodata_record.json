@@ -1,0 +1,27 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ipywidgets >=7,<8",
+    "numpy",
+    "python",
+    "traittypes >=0.2"
+  ],
+  "features": "",
+  "fn": "ipydatawidgets-4.1.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "76099e9b42d3a3a525d22bd3f3c25fde",
+  "name": "ipydatawidgets",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "b9370b1d4f8f0226560ea955f974bc38be5a1bf8c7fd51e8af591396a524383b",
+  "size": 150819,
+  "subdir": "noarch",
+  "timestamp": 1601289958897,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ipydatawidgets-4.1.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "4.1.0"
+}

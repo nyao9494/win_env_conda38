@@ -1,0 +1,27 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ipydatawidgets",
+    "ipywidgets >=7,<8",
+    "numpy",
+    "python",
+    "traittypes"
+  ],
+  "features": "",
+  "fn": "pythreejs-2.2.1-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "md5": "af233858ba483541ddb3f8dcc012076e",
+  "name": "pythreejs",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "66c2b669ac51e33185c47d6c32ee0f3f92127c2fffda9ebd59cb1643569677be",
+  "size": 2881344,
+  "subdir": "noarch",
+  "timestamp": 1602505383487,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pythreejs-2.2.1-pyh9f0ad1d_0.tar.bz2",
+  "version": "2.2.1"
+}

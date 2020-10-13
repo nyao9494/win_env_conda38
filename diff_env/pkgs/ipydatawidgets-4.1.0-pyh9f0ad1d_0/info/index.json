@@ -1,0 +1,19 @@
+{
+  "arch": null,
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "depends": [
+    "ipywidgets >=7,<8",
+    "numpy",
+    "python",
+    "traittypes >=0.2"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "name": "ipydatawidgets",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1601289958897,
+  "version": "4.1.0"
+}

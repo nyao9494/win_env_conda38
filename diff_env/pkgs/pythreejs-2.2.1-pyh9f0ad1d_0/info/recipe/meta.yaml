@@ -1,0 +1,65 @@
+# This file created by conda-build 3.20.3
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Mon Oct 12 12:18:58 2020
+# ------------------------------------------------
+
+package:
+    name: pythreejs
+    version: 2.2.1
+source:
+    fn: pythreejs-2.2.1.tar.gz
+    sha256: acceeac346054bcc280bf93f494557e6f5ab404860cfee584d72a6c3dde16463
+    url: https://pypi.io/packages/source/p/pythreejs/pythreejs-2.2.1.tar.gz
+build:
+    noarch: python
+    number: '0'
+    script: /home/conda/feedstock_root/build_artifacts/pythreejs_1602505201544/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p/bin/python
+        -m pip install . --no-deps -vv
+    string: pyh9f0ad1d_0
+requirements:
+    build:
+        - _libgcc_mutex 0.1 conda_forge
+        - _openmp_mutex 4.5 1_gnu
+        - ca-certificates 2020.6.20 hecda079_0
+        - certifi 2020.6.20 py36h9880bd3_2
+        - icu 67.1 he1b5a44_0
+        - ld_impl_linux-64 2.35 h769bd43_9
+        - libffi 3.2.1 he1b5a44_1007
+        - libgcc-ng 9.3.0 h5dbcf3e_17
+        - libgomp 9.3.0 h5dbcf3e_17
+        - libstdcxx-ng 9.3.0 h2ae2ef3_17
+        - libuv 1.40.0 h516909a_0
+        - ncurses 6.2 he1b5a44_2
+        - nodejs 14.13.1 h568c755_0
+        - openssl 1.1.1h h516909a_0
+        - pip 20.2.3 py_0
+        - python 3.6.11 h4d41432_2_cpython
+        - python_abi 3.6 1_cp36m
+        - readline 8.0 he28a2e2_2
+        - setuptools 49.6.0 py36h9880bd3_2
+        - sqlite 3.33.0 h4cf870e_1
+        - tk 8.6.10 hed695b0_1
+        - wheel 0.35.1 pyh9f0ad1d_0
+        - xz 5.2.5 h516909a_1
+        - zlib 1.2.11 h516909a_1009
+    run:
+        - ipydatawidgets
+        - ipywidgets >=7,<8
+        - numpy
+        - python
+        - traittypes
+test:
+    imports:
+        - pythreejs
+about:
+    home: https://github.com/jupyter-widgets/pythreejs
+    license: BSD 3-Clause
+    license_file: LICENSE
+    summary: A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - SylvainCorlay
+        - jasongrout
+        - vidartf

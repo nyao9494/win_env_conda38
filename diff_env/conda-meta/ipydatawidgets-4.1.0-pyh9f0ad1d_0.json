@@ -1,0 +1,404 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ipywidgets >=7,<8",
+    "numpy",
+    "python",
+    "traittypes >=0.2"
+  ],
+  "extracted_package_dir": "C:\\Users\\M151325\\Anaconda38\\pkgs\\ipydatawidgets-4.1.0-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "etc/jupyter/nbconfig/notebook.d/jupyter-datawidgets.json",
+    "share/jupyter/lab/extensions/jupyterlab-datawidgets-6.3.0.tgz",
+    "share/jupyter/nbextensions/jupyter-datawidgets/extension.js",
+    "share/jupyter/nbextensions/jupyter-datawidgets/index.js",
+    "share/jupyter/nbextensions/jupyter-datawidgets/index.js.map",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/METADATA",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/RECORD",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/WHEEL",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/ipydatawidgets-4.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/ipydatawidgets/__init__.py",
+    "Lib/site-packages/ipydatawidgets/_frontend.py",
+    "Lib/site-packages/ipydatawidgets/_version.py",
+    "Lib/site-packages/ipydatawidgets/nbextension/__init__.py",
+    "Lib/site-packages/ipydatawidgets/nbextension/static/extension.js",
+    "Lib/site-packages/ipydatawidgets/nbextension/static/index.js",
+    "Lib/site-packages/ipydatawidgets/nbextension/static/index.js.map",
+    "Lib/site-packages/ipydatawidgets/ndarray/__init__.py",
+    "Lib/site-packages/ipydatawidgets/ndarray/media.py",
+    "Lib/site-packages/ipydatawidgets/ndarray/serializers.py",
+    "Lib/site-packages/ipydatawidgets/ndarray/traits.py",
+    "Lib/site-packages/ipydatawidgets/ndarray/union.py",
+    "Lib/site-packages/ipydatawidgets/ndarray/widgets.py",
+    "Lib/site-packages/ipydatawidgets/tests/__init__.py",
+    "Lib/site-packages/ipydatawidgets/tests/conftest.py",
+    "Lib/site-packages/ipydatawidgets/tests/test_nbextension_path.py",
+    "Lib/site-packages/ipydatawidgets/tests/test_ndarray_serializers.py",
+    "Lib/site-packages/ipydatawidgets/tests/test_ndarray_trait.py",
+    "Lib/site-packages/ipydatawidgets/tests/test_union.py",
+    "Lib/site-packages/ipydatawidgets/tests/test_widgets.py",
+    "Lib/site-packages/ipydatawidgets/widgets.py",
+    ".nonadmin",
+    "Lib/site-packages/ipydatawidgets/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/__pycache__/_frontend.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/nbextension/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/media.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/serializers.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/traits.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/union.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/widgets.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/conftest.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_nbextension_path.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_ndarray_serializers.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_ndarray_trait.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_union.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_widgets.cpython-38.pyc",
+    "Lib/site-packages/ipydatawidgets/__pycache__/widgets.cpython-38.pyc"
+  ],
+  "fn": "ipydatawidgets-4.1.0-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\M151325\\Anaconda38\\pkgs\\ipydatawidgets-4.1.0-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "76099e9b42d3a3a525d22bd3f3c25fde",
+  "name": "ipydatawidgets",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\M151325\\Anaconda38\\pkgs\\ipydatawidgets-4.1.0-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/nbconfig/notebook.d/jupyter-datawidgets.json",
+        "path_type": "hardlink",
+        "sha256": "145a783a1928c1dc70b7830687c50d459089136f0a8b8e3d1d273b57cc598949",
+        "sha256_in_prefix": "145a783a1928c1dc70b7830687c50d459089136f0a8b8e3d1d273b57cc598949",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "share/jupyter/lab/extensions/jupyterlab-datawidgets-6.3.0.tgz",
+        "path_type": "hardlink",
+        "sha256": "eafd09f4833f0a8458babd29859e9d1b4c6804541322859d597d9f6d9b932920",
+        "sha256_in_prefix": "eafd09f4833f0a8458babd29859e9d1b4c6804541322859d597d9f6d9b932920",
+        "size_in_bytes": 1173
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupyter-datawidgets/extension.js",
+        "path_type": "hardlink",
+        "sha256": "0b435fd2dd189b51e7b7a06d7262462dd3323fd87172d9c8293c93ab38cf7b7d",
+        "sha256_in_prefix": "0b435fd2dd189b51e7b7a06d7262462dd3323fd87172d9c8293c93ab38cf7b7d",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupyter-datawidgets/index.js",
+        "path_type": "hardlink",
+        "sha256": "4976ec263dbe6975ad903ad0619fc71d59e5490f2398129aa66d6fed4190f2a9",
+        "sha256_in_prefix": "4976ec263dbe6975ad903ad0619fc71d59e5490f2398129aa66d6fed4190f2a9",
+        "size_in_bytes": 68376
+      },
+      {
+        "_path": "share/jupyter/nbextensions/jupyter-datawidgets/index.js.map",
+        "path_type": "hardlink",
+        "sha256": "71c4478a980b9afd3f2a1b997377b47357c75a4f7393e5bd64b67b1841471c2d",
+        "sha256_in_prefix": "71c4478a980b9afd3f2a1b997377b47357c75a4f7393e5bd64b67b1841471c2d",
+        "size_in_bytes": 364525
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "46b05c927f37b9f1d54fd2f1179f796a769f11a0b11dd5561556a6a04a824d8c",
+        "sha256_in_prefix": "46b05c927f37b9f1d54fd2f1179f796a769f11a0b11dd5561556a6a04a824d8c",
+        "size_in_bytes": 3190
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "49d93e487730c7a1701305b5d113e4d85bb366d9698193f101b3fd282d73aca1",
+        "sha256_in_prefix": "49d93e487730c7a1701305b5d113e4d85bb366d9698193f101b3fd282d73aca1",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "45bed3e39ac9c30f0834c5220698428470458b1c678183ce1cd9bc6f3c8cb670",
+        "sha256_in_prefix": "45bed3e39ac9c30f0834c5220698428470458b1c678183ce1cd9bc6f3c8cb670",
+        "size_in_bytes": 4412
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "sha256_in_prefix": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6f6d28b602db06e2ce7ebe400d16a15060adb4ce471c1d659e1b9f6709db10a3",
+        "sha256_in_prefix": "6f6d28b602db06e2ce7ebe400d16a15060adb4ce471c1d659e1b9f6709db10a3",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/ipydatawidgets-4.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0db12fdc601eedddc4e759861114397dc6f85a5c601e675288eb1f79374d867f",
+        "sha256_in_prefix": "0db12fdc601eedddc4e759861114397dc6f85a5c601e675288eb1f79374d867f",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6e19f1af969dd2332826f1ef86cf37222c65288318f009f38e91da0936468c82",
+        "sha256_in_prefix": "6e19f1af969dd2332826f1ef86cf37222c65288318f009f38e91da0936468c82",
+        "size_in_bytes": 308
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/_frontend.py",
+        "path_type": "hardlink",
+        "sha256": "3776335a4b37bbb81b6914344ecc747cb63eaf4c0801b1600f2c489d9d69b42e",
+        "sha256_in_prefix": "3776335a4b37bbb81b6914344ecc747cb63eaf4c0801b1600f2c489d9d69b42e",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/_version.py",
+        "path_type": "hardlink",
+        "sha256": "b694484b4f8df15a6aebed78395ac45a8908182d5f1c2ce7fcd63e11fb406ed3",
+        "sha256_in_prefix": "b694484b4f8df15a6aebed78395ac45a8908182d5f1c2ce7fcd63e11fb406ed3",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/nbextension/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "89d0ab06c9858584b8dccb1c20eb65310628289cc1b5974aa9b9c3cf9ded6427",
+        "sha256_in_prefix": "89d0ab06c9858584b8dccb1c20eb65310628289cc1b5974aa9b9c3cf9ded6427",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/nbextension/static/extension.js",
+        "path_type": "hardlink",
+        "sha256": "0b435fd2dd189b51e7b7a06d7262462dd3323fd87172d9c8293c93ab38cf7b7d",
+        "sha256_in_prefix": "0b435fd2dd189b51e7b7a06d7262462dd3323fd87172d9c8293c93ab38cf7b7d",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/nbextension/static/index.js",
+        "path_type": "hardlink",
+        "sha256": "4976ec263dbe6975ad903ad0619fc71d59e5490f2398129aa66d6fed4190f2a9",
+        "sha256_in_prefix": "4976ec263dbe6975ad903ad0619fc71d59e5490f2398129aa66d6fed4190f2a9",
+        "size_in_bytes": 68376
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/nbextension/static/index.js.map",
+        "path_type": "hardlink",
+        "sha256": "71c4478a980b9afd3f2a1b997377b47357c75a4f7393e5bd64b67b1841471c2d",
+        "sha256_in_prefix": "71c4478a980b9afd3f2a1b997377b47357c75a4f7393e5bd64b67b1841471c2d",
+        "size_in_bytes": 364525
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "680067a90c3b03ceb2cd5f831411735e2b467dabb9545b85cefaa8e697b6c5d6",
+        "sha256_in_prefix": "680067a90c3b03ceb2cd5f831411735e2b467dabb9545b85cefaa8e697b6c5d6",
+        "size_in_bytes": 497
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/media.py",
+        "path_type": "hardlink",
+        "sha256": "5067f31ea0c8000183009ffb807234cf85e4746097b5b2f3ba8a7b0148a74ff4",
+        "sha256_in_prefix": "5067f31ea0c8000183009ffb807234cf85e4746097b5b2f3ba8a7b0148a74ff4",
+        "size_in_bytes": 935
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/serializers.py",
+        "path_type": "hardlink",
+        "sha256": "99afc71623893db175217b0c194a80fe79a489ac08a02e7a08b96f4f1f9ac17f",
+        "sha256_in_prefix": "99afc71623893db175217b0c194a80fe79a489ac08a02e7a08b96f4f1f9ac17f",
+        "size_in_bytes": 5449
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/traits.py",
+        "path_type": "hardlink",
+        "sha256": "20e41623404874dca62023cb016a6a4382061a1a09628006f166ddb416d1d533",
+        "sha256_in_prefix": "20e41623404874dca62023cb016a6a4382061a1a09628006f166ddb416d1d533",
+        "size_in_bytes": 1633
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/union.py",
+        "path_type": "hardlink",
+        "sha256": "51e4fe5515f918138dc81c9a3d7d770bdb62823e49ca31def09718ef94daea90",
+        "sha256_in_prefix": "51e4fe5515f918138dc81c9a3d7d770bdb62823e49ca31def09718ef94daea90",
+        "size_in_bytes": 4070
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/ndarray/widgets.py",
+        "path_type": "hardlink",
+        "sha256": "882671945ede991f207d0f027e721f3c823f4c9e9d5790e3f9fbde4e986f0c2f",
+        "sha256_in_prefix": "882671945ede991f207d0f027e721f3c823f4c9e9d5790e3f9fbde4e986f0c2f",
+        "size_in_bytes": 6030
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "e5ad6351fd87f49f40acca707697d63469ebff05a3ab5ff7a0645f07d6716c6e",
+        "sha256_in_prefix": "e5ad6351fd87f49f40acca707697d63469ebff05a3ab5ff7a0645f07d6716c6e",
+        "size_in_bytes": 1372
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/test_nbextension_path.py",
+        "path_type": "hardlink",
+        "sha256": "ebeb44f42a4237072d1699f9521b3fe53cd6a0e0924d6e3ffc2e7dcb39258148",
+        "sha256_in_prefix": "ebeb44f42a4237072d1699f9521b3fe53cd6a0e0924d6e3ffc2e7dcb39258148",
+        "size_in_bytes": 493
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/test_ndarray_serializers.py",
+        "path_type": "hardlink",
+        "sha256": "a2fbec2e10241e929a480bc5fcc6d136cd441719ea4f3b18c887c63fe6d0f3c0",
+        "sha256_in_prefix": "a2fbec2e10241e929a480bc5fcc6d136cd441719ea4f3b18c887c63fe6d0f3c0",
+        "size_in_bytes": 5134
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/test_ndarray_trait.py",
+        "path_type": "hardlink",
+        "sha256": "07ae432eda982ae510d7a00fc8c05650919de792e0def4c203a5675ade60fdb0",
+        "sha256_in_prefix": "07ae432eda982ae510d7a00fc8c05650919de792e0def4c203a5675ade60fdb0",
+        "size_in_bytes": 4401
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/test_union.py",
+        "path_type": "hardlink",
+        "sha256": "e336e69c1fdc34dd6502daaf08fa210c234faf9595e632f0995050d0489b2a51",
+        "sha256_in_prefix": "e336e69c1fdc34dd6502daaf08fa210c234faf9595e632f0995050d0489b2a51",
+        "size_in_bytes": 4401
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/tests/test_widgets.py",
+        "path_type": "hardlink",
+        "sha256": "23eb44effd6a3a29ec637e8117b2b0ba8d05c243545a5c7c4e9f9d82b204ef4d",
+        "sha256_in_prefix": "23eb44effd6a3a29ec637e8117b2b0ba8d05c243545a5c7c4e9f9d82b204ef4d",
+        "size_in_bytes": 4124
+      },
+      {
+        "_path": "site-packages/ipydatawidgets/widgets.py",
+        "path_type": "hardlink",
+        "sha256": "3fb7633ad42b0847bb50327ea1ef3d39b9cbfd9c8d2fa4ee5f792098e2a4f889",
+        "sha256_in_prefix": "3fb7633ad42b0847bb50327ea1ef3d39b9cbfd9c8d2fa4ee5f792098e2a4f889",
+        "size_in_bytes": 549
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/__pycache__/_frontend.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/nbextension/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/media.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/serializers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/traits.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/union.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/ndarray/__pycache__/widgets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/conftest.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_nbextension_path.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_ndarray_serializers.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_ndarray_trait.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_union.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/tests/__pycache__/test_widgets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipydatawidgets/__pycache__/widgets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b9370b1d4f8f0226560ea955f974bc38be5a1bf8c7fd51e8af591396a524383b",
+  "size": 150819,
+  "subdir": "noarch",
+  "timestamp": 1601289958897,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ipydatawidgets-4.1.0-pyh9f0ad1d_0.tar.bz2",
+  "version": "4.1.0"
+}
